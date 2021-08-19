@@ -43,7 +43,7 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
-   - type: input
+  - type: input
     id: company_name
     attributes:
       label: Company/Business Name
@@ -51,7 +51,7 @@ body:
       placeholder: ex. kouzina
     validations:
       required: false
-   - type: input
+  - type: input
     id: username
     attributes:
       label: Company/Business Name
