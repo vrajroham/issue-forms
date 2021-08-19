@@ -53,7 +53,6 @@ body:
   - type: input
     id: username
     attributes:
-      label: Company/Business Name
       description: Reported for which user account
       placeholder: ex. johndoe
     validations:
